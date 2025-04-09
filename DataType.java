@@ -13,5 +13,7 @@ public class DataType {
         System.out.println("Character type Data : "+c);
         System.out.println("String type Data : "+s); 
         System.out.println("Boolean type Data : "+b);
+
+        System.out.println("This is a Master Branch");
     }
 }
